@@ -1,0 +1,10 @@
+{
+  "require-dev": {
+    "phpspec/phpspec": "^4.0"
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "dompdf/dompdf": "dev-master as 0.7.0",
+  "autoload": {"psr-0": {"": "src"}}
+}
